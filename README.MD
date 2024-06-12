@@ -9,7 +9,7 @@
       font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #d6d6f9;
+      background-color: #e0e0e0;
       color: #333;
     }
     .container {
@@ -17,7 +17,7 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
-      background-color: #e0e0e0;
+      background-color: #f4f4f9;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     }
